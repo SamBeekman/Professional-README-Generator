@@ -1,52 +1,53 @@
-# 2
+# 4
+
+        ![alt-text](https://img.shields.io/badge/License-Apache-blue)
 
         ## Description
         
-        2
+        4
         
-        ## Table of Contents        
-        - undefined
-        // - undefined
-        // - undefined
-        // - undefined
-        // - undefined
-        // - undefined
-        // - undefined
-        // - undefined
-        // - undefined
+        ## Table of Contents       //links need to navigate 
+   
+        - [Installation](#Installation)
+        - [Usage](#Usage)
+        - [License](#License)
+        - [Contributing](#Contributing)
+        - [Tests](#Tests)
+        - [Github](#Github)
+        - [Email](#Email)
 
         
         ## Installation
         
-        2
+        4
         
         ## Usage
         
-        2
+        4
         
         ## License
         
-        GPLv2
+        Apache
         
         ## Badges
         
-        ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+        [![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)]
         
         Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
         
         
         ## Contributing
         
-        2
+        4
         
         ## Tests
         
-        2
+        4
         
         ## Github
         
-        2
+        4
         
         ## Email
         
-        2
+        4
