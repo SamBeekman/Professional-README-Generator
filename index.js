@@ -60,7 +60,7 @@ inquirer
 
     ])
     .then(function (answers) {
-        // console.log(answers);
+        console.log(answers);
 
         let data =
             `# ${answers.title}
@@ -69,7 +69,8 @@ inquirer
         
         ${answers.description}
         
-        ## Table of Contents        
+        ## Table of Contents       //links need to navigate 
+   
         - [Installation](#Installation)
         - [Usage](#Usage)
         - [License](#License)
@@ -77,6 +78,7 @@ inquirer
         - [Tests](#Tests)
         - [Github](#Github)
         - [Email](#Email)
+
         
         ## Installation
         

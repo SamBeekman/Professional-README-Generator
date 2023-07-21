@@ -1,30 +1,32 @@
-# Professional README.md Generator
+# 2
 
         ## Description
         
-        This project was built to streamline the README writing process. It solves the problem of having to write out a dedicated README for every new Github repo you create.
+        2
         
-        ## Table of Contents
-        
-        - [Installation](#Installation)
-        - [Usage](#Usage)
-        - [License](#License)
-        - [Contributing](#Contributing)
-        - [Tests](#Tests)
-        - [Github](#Github)
-        - [Email](#Email)
+        ## Table of Contents        
+        - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+        // - undefined
+
         
         ## Installation
         
-        Download the files and execute in VS Code by entering 'npm start' in the terminal and following the prompts.
+        2
         
         ## Usage
         
-        I will generate and link a gif for this section
+        2
         
         ## License
         
-        MIT
+        GPLv2
         
         ## Badges
         
@@ -35,16 +37,16 @@
         
         ## Contributing
         
-        The work is done so no need for contributing although I will look into ways to add to this
+        2
         
         ## Tests
         
-        N/A
+        2
         
         ## Github
         
-        https://github.com/SamBeekman
+        2
         
         ## Email
         
-        sambeekman@hotmail.com
+        2
