@@ -61,14 +61,13 @@ inquirer
         // console.log(answers);
 
         let data =
-            `# <${answers.title}>
+            `# ${answers.title}
 
         ## Description
         
         ${answers.description}
         
-        ## Table of Contents
-        
+        ## Table of Contents        
         - [Installation](#Installation)
         - [Usage](#Usage)
         - [License](#License)
