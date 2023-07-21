@@ -43,7 +43,7 @@
         
         ## Github
         
-        https://github.com/SamBeekman/Professional-README-Generator
+        https://github.com/SamBeekman
         
         ## Email
         
