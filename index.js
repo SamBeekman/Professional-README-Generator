@@ -65,7 +65,9 @@ inquirer
         let data =
             `# ${answers.title}
 
-        ![alt-text](https://img.shields.io/badge/License-${answers.license}-blue)
+        ![License](https://img.shields.io/badge/License-${answers.license}-blue)
+        ![Static Badge](https://img.shields.io/badge/License%2C%20License-%60%24%7Banswers.license%7D%60-blue)
+
 
         ## Description
         
