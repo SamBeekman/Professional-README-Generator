@@ -1,4 +1,4 @@
-# <Professional README.md Generator>
+# Professional README.md Generator
 
         ## Description
         
