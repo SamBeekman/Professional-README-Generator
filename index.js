@@ -61,8 +61,7 @@ inquirer
         // console.log(answers);
 
         let data =
-            `
-        # ${answers.title}
+            `# ${answers.title}
 
         ## Description
         
