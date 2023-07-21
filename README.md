@@ -1,10 +1,12 @@
-# 4
+# 5
 
-        ![alt-text](https://img.shields.io/badge/License-Apache-blue)
+        ![License](https://img.shields.io/badge/License-BSD 3-clause-blue)
+        ![Static Badge](https://img.shields.io/badge/License%2C%20License-%60%24%7Banswers.license%7D%60-blue)
+
 
         ## Description
         
-        4
+        5
         
         ## Table of Contents       //links need to navigate 
    
@@ -19,15 +21,15 @@
         
         ## Installation
         
-        4
+        5
         
         ## Usage
         
-        4
+        5
         
         ## License
         
-        Apache
+        BSD 3-clause
         
         ## Badges
         
@@ -38,16 +40,16 @@
         
         ## Contributing
         
-        4
+        5
         
         ## Tests
         
-        4
+        5
         
         ## Github
         
-        4
+        5
         
         ## Email
         
-        4
+        5
