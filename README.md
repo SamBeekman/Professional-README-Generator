@@ -27,6 +27,9 @@ To use this generator, download the source files and type 'npm start' into the t
 
 This generator requires npm inquirer@8.2.4 and fs to run.
 
+![README gif](https://github.com/SamBeekman/Professional-README-Generator/assets/131665093/a422cac5-e2ad-4908-be1d-46be02fc659b)
+
+
 
 ## Contributing
 
