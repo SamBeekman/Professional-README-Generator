@@ -20,7 +20,7 @@ This generator was built to make it quick and and easy to generate high quality 
 
 ## Installation
 
-To use this generator, download the source files and type 'npm start' into the terminal in VS code and follow the prompts to create you README
+To use this generator, download the source files and type 'npm start' into the terminal in VS code and follow the prompts to create your README
 
 ## Usage
 
