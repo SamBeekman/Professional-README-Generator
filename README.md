@@ -1,55 +1,48 @@
-# 5
 
-        ![License](https://img.shields.io/badge/License-BSD 3-clause-blue)
-        ![Static Badge](https://img.shields.io/badge/License%2C%20License-%60%24%7Banswers.license%7D%60-blue)
+# Professional README.md Generator
+
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 
-        ## Description
-        
-        5
-        
-        ## Table of Contents       //links need to navigate 
-   
-        - [Installation](#Installation)
-        - [Usage](#Usage)
-        - [License](#License)
-        - [Contributing](#Contributing)
-        - [Tests](#Tests)
-        - [Github](#Github)
-        - [Email](#Email)
+## Description
 
-        
-        ## Installation
-        
-        5
-        
-        ## Usage
-        
-        5
-        
-        ## License
-        
-        BSD 3-clause
-        
-        ## Badges
-        
-        [![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)]
-        
-        Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-        
-        
-        ## Contributing
-        
-        5
-        
-        ## Tests
-        
-        5
-        
-        ## Github
-        
-        5
-        
-        ## Email
-        
-        5
+This generator was built to make it quick and and easy to generate high quality README files for Github repositories. It solves the problem of having to create one from scratch for every new repo you start. It was built using NodeJS and NPM 'inquirer' and 'fs'
+
+## Table of Contents
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Github](#Github)
+- [Email](#Email)
+
+
+## Installation
+
+To use this generator, download the source files and type 'npm start' into the terminal in VS code and follow the prompts to create you README
+
+## Usage
+
+This generator requires npm inquirer@8.2.4 and fs to run
+
+## License
+
+MIT
+
+
+## Contributing
+
+The work for this generator is completed but any further contributions are welcome
+
+## Tests
+
+N/A
+
+## Github
+
+SamBeekman
+
+## Email
+
+sambeekman@hotmail.com

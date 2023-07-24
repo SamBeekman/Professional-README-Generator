@@ -1,4 +1,3 @@
-// TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 
@@ -23,10 +22,6 @@ inquirer
         {
             type: 'input',
             message: 'What is the usage information?',
-            //To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-            // ```md
-            // ![alt text](assets/images/screenshot.png)
-            // ```
             name: 'usage',
         },
         {
@@ -61,61 +56,54 @@ inquirer
         console.log(answers);
 
         let data =
-            `# ${answers.title}
+            `
+# ${answers.title}
 
-        ![License](https://img.shields.io/badge/License-${answers.license}-blue)
-        ![Static Badge](https://img.shields.io/badge/License%2C%20License-%60%24%7Banswers.license%7D%60-blue)
+![License](https://img.shields.io/badge/License-${answers.license}-blue)
 
 
-        ## Description
-        
-        ${answers.description}
-        
-        ## Table of Contents       //links need to navigate 
-   
-        - [Installation](#Installation)
-        - [Usage](#Usage)
-        - [License](#License)
-        - [Contributing](#Contributing)
-        - [Tests](#Tests)
-        - [Github](#Github)
-        - [Email](#Email)
+## Description
 
-        
-        ## Installation
-        
-        ${answers.installation}
-        
-        ## Usage
-        
-        ${answers.usage}
-        
-        ## License
-        
-        ${answers.license}
-        
-        ## Badges
-        
-        [![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)]
-        
-        Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-        
-        
-        ## Contributing
-        
-        ${answers.contributing}
-        
-        ## Tests
-        
-        ${answers.tests}
-        
-        ## Github
-        
-        ${answers.github}
-        
-        ## Email
-        
-        ${answers.email}`
+${answers.description}
+
+## Table of Contents
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Github](#Github)
+- [Email](#Email)
+
+
+## Installation
+
+${answers.installation}
+
+## Usage
+
+${answers.usage}
+
+## License
+
+${answers.license}
+
+
+## Contributing
+
+${answers.contributing}
+
+## Tests
+
+${answers.tests}
+
+## Github
+
+${answers.github}
+
+## Email
+
+${answers.email}`
 
         fs.writeFile('README.md', data, (err) =>
             err ? console.error(err) : console.log('Success!'));
@@ -125,13 +113,3 @@ inquirer
         console.log(error);
     }
     );
-
-
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
