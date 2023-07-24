@@ -103,7 +103,7 @@ ${answers.tests}
 
 ## Questions
 
-To view my github page, click on: github.com/${answers.github}
+To view my github page, click on: [${answers.github}](github.com/${answers.github})
 
 For any questions, please contact me via email at: ${answers.email}`
 
