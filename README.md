@@ -13,8 +13,8 @@ This generator was built to make it quick and and easy to generate high quality 
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
-- [License](#License)
 - [Tests](#Tests)
+- [License](#License)
 - [Questions](#Questions)
 
 
@@ -33,18 +33,18 @@ This generator requires npm inquirer@8.2.4 and fs to run.
 The work for this generator is completed but any further contributions are welcome.
 
 
-## License
-
-MIT
-
-
 ## Tests
 
 N/A
 
 
+## License
+
+MIT
+
+
 ## Questions
 
-To view my github page, click on: [SamBeekman](github.com/SamBeekman)
+To view my github page, click on: [My Github Page](https://www.github.com/SamBeekman)
 
 For any questions, please contact me via email at: sambeekman@hotmail.com

@@ -71,8 +71,8 @@ ${answers.description}
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
-- [License](#License)
 - [Tests](#Tests)
+- [License](#License)
 - [Questions](#Questions)
 
 
@@ -91,19 +91,19 @@ ${answers.usage}
 ${answers.contributing}
 
 
-## License
-
-${answers.license}
-
-
 ## Tests
 
 ${answers.tests}
 
 
+## License
+
+${answers.license}
+
+
 ## Questions
 
-To view my github page, click on: [${answers.github}](github.com/${answers.github})
+To view my github page, click on: [My Github Page](https://www.github.com/${answers.github})
 
 For any questions, please contact me via email at: ${answers.email}`
 
