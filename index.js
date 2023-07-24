@@ -66,44 +66,46 @@ inquirer
 
 ${answers.description}
 
+
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [License](#License)
 - [Contributing](#Contributing)
+- [License](#License)
 - [Tests](#Tests)
-- [Github](#Github)
-- [Email](#Email)
+- [Questions](#Questions)
 
 
 ## Installation
 
 ${answers.installation}
 
+
 ## Usage
 
 ${answers.usage}
-
-## License
-
-${answers.license}
 
 
 ## Contributing
 
 ${answers.contributing}
 
+
+## License
+
+${answers.license}
+
+
 ## Tests
 
 ${answers.tests}
 
-## Github
 
-${answers.github}
+## Questions
 
-## Email
+To view my github page, click on: github.com/${answers.github}
 
-${answers.email}`
+For any questions, please contact me via email at: ${answers.email}`
 
         fs.writeFile('README.md', data, (err) =>
             err ? console.error(err) : console.log('Success!'));
