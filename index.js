@@ -1,8 +1,10 @@
+// npm packages that are used
 const inquirer = require('inquirer');
 const fs = require('fs');
 
 
 inquirer
+    // questions to be prompted with
     .prompt([
         {
             type: 'input',
@@ -53,8 +55,8 @@ inquirer
 
     ])
     .then(function (answers) {
-        console.log(answers);
 
+        // README structure
         let data =
             `
 # ${answers.title}
@@ -107,6 +109,7 @@ To view my github page, click on: [My Github Page](https://www.github.com/${answ
 
 For any questions, please contact me via email at: ${answers.email}`
 
+        // create the README file
         fs.writeFile('README.md', data, (err) =>
             err ? console.error(err) : console.log('Success!'));
     })
